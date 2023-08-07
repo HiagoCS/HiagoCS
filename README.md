@@ -1,6 +1,7 @@
 ### Bem-vindo ao perfil do Hiago Costa Santos!
-
-- 🌱 Estudando C#, PHP, JS (React Native, Node e variações), SQL e Python
+- 🎓 Formado em Desenvolvimento de Sistemas pela Etec de Peruíbe
+- 🌱 Trabalhando com: PHP, Javascript, Python e C#
+- 💻 Principais Frameworks: Laravel e VueJS
 - 📫 Contate-me no email: hiago8cs@gmail.com
 
  <div>
